@@ -10,12 +10,12 @@ This game will help you gain knowledge about Quantum principles like Superpostit
 
 ### 2. Types of moves 
  
- Classical move - played on a quantum cell 
+** Classical move - ** played on a quantum cell 
  
  
- Quantum move - 2 cells should be selected 
+** Quantum move - ** 2 cells should be selected 
  
- a.First cell has to be a quantum cell which will act as a control cell 
+ a. First cell has to be a quantum cell which will act as a control cell 
  
  b. Second cell has to be a classical cell which will be the target cell
  
