@@ -10,8 +10,6 @@ This game will help you gain knowledge about Quantum principles like Superpostit
   _Quantum cell_ - do not have X or O in them
 
 ### 2. Types of moves 
- 
- 
 _Classical move_ - played on a quantum cell 
  
  
