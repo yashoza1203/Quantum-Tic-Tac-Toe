@@ -22,6 +22,11 @@ _Quantum move_ -  2 cells should be selected
 
  _Entangle move_ - After selecting the control and target cell proceed to entangle
  
+ ## Steps to run the game
+ 1. clone the github repo.
+ 2. run 'pip -r requirements.txt' to install the packages.
+ 3. Run the game by executing `python main.py`
+ 
  ## References:
  
  https://www.researchgate.net/publication/338113536_Quantum_Tic-Tac-Toe_A_Hybrid_of_Quantum_and_Classical_Computing
