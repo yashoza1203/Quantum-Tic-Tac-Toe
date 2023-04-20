@@ -17,7 +17,6 @@ _Classical move_ - played on a quantum cell
 _Quantum move_ -  2 cells should be selected 
  
  a. First cell has to be a quantum cell which will act as a control cell 
- 
  b. Second cell has to be a classical cell which will be the target cell
  
 
