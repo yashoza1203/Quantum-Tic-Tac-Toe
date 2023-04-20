@@ -2,7 +2,7 @@
 
 This game will help you gain knowledge about Quantum principles like Superpostition and entanglement.
 
-## Rules to be followed while playing the game:
+## Rules:
 
 ### 1. Types of cells 
   _Classical cell_ - Contains X or O in them 
