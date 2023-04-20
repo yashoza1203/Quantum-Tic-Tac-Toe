@@ -23,9 +23,9 @@ _Quantum move_ -  2 cells should be selected
  _Entangle move_ - After selecting the control and target cell proceed to entangle
  
  ## Steps to run the game
- 1. Clone the github repository in your laptop/PC
- 2. Run `pip -r requirements.txt` to install the packages.
- 3. Run the game by executing `python main.py`
+ 1. Clone the GitHub repository or download the code files as a ZIP archive.
+ 2. Install the required packages by running the following command in the terminal: `pip install -r requirements.txt`
+ 3. Run the game using the `command python main.py`
  
  ## References:
  
