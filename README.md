@@ -29,7 +29,7 @@ _Quantum move_ -  2 cells should be selected
  
  ## Notes on the frontend:
  * Double click on the move to select a different move.
- * After entangling the entangled boxes will be turned white for a couple of seconds
+ * After entangling, the entangled boxes will be turned white for a couple of seconds.
  
  ## References:
  
