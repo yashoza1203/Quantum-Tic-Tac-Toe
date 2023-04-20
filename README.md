@@ -2,7 +2,7 @@
 
 This game will help you gain knowledge about Quantum principles like Superpostition and entanglement.
 
-## Rules:
+## Rules
 
 ### 1. Types of cells 
   _Classical cell_ - Contains X or O in them 
@@ -27,7 +27,7 @@ _Quantum move_ -  2 cells should be selected
  2. Install the required packages by running the following command in the terminal: `pip install -r requirements.txt`
  3. Run the game using the command `python main.py`
  
- ## Notes on the frontend:
+ ## Notes on the frontend
  * Double click on the move to select a different move.
  * After entangling, the entangled boxes will be turned white for a couple of seconds.
  
