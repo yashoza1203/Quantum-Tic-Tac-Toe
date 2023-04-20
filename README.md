@@ -11,6 +11,7 @@ This game will help you gain knowledge about Quantum principles like Superpostit
 
 ### 2. Types of moves 
  
+ 
 _Classical move_ - played on a quantum cell 
  
  
