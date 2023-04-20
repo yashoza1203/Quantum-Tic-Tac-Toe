@@ -20,9 +20,9 @@ _Quantum move_ -  2 cells should be selected
  
  b. Second cell has to be a classical cell which will be the target cell
  
- 
+
  _Entangle move_ - After selecting the control and target cell proceed to entangle
  
- ## Referrences:
+ ## References:
  
  https://www.researchgate.net/publication/338113536_Quantum_Tic-Tac-Toe_A_Hybrid_of_Quantum_and_Classical_Computing
