@@ -25,7 +25,7 @@ _Quantum move_ -  2 cells should be selected
  ## Steps to run the game
  1. Clone the GitHub repository or download the code files as a ZIP archive.
  2. Install the required packages by running the following command in the terminal: `pip install -r requirements.txt`
- 3. Run the game using the `command python main.py`
+ 3. Run the game using the command `python main.py`
  
  ## References:
  
