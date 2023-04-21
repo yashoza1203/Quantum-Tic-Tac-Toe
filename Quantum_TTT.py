@@ -2,16 +2,10 @@ from qiskit import *
 
 player_X='X'
 player_O='O'
-i=0
 classical_bits=[]
 quantum_player=[]
-tpx=[]
-tpo=[]
-cpx=[]
-cpo=[]
 controls=[]
 targets=[]
-moves=['O','X']
 
 qc=QuantumCircuit(9,9)
 qc.h(range(9))
@@ -43,7 +37,6 @@ def classical_move(bit):
     return key_list
 
 def quantum_operation(bit):
-    global qops
     j=controls.index(bit)
 
     if quantum_player[j]==player_O:
@@ -55,7 +48,6 @@ def quantum_operation(bit):
     elif quantum_player[j]==player_X:
         qc.cx(controls[j],targets[j])
         qc.measure(targets[j],targets[j])
-    qop=True
 
 def quantum_move(tbit,cbit,player):
     global classical_bits
@@ -63,8 +55,6 @@ def quantum_move(tbit,cbit,player):
     if tbit in classical_bits and cbit not in classical_bits:
         controls.append(cbit)
         targets.append(tbit)
-        con=cbit+1
-        tar=tbit+1
         quantum_player.append(player)
     else:
         return 0
