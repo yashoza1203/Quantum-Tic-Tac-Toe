@@ -2,7 +2,7 @@
 
 This game will help you gain knowledge about Quantum principles like Superpostition and entanglement.
 
-![image](https://user-images.githubusercontent.com/60883716/233694307-24018fa8-3de6-435c-be4d-6c79d28c861d.png)
+https://user-images.githubusercontent.com/60883716/233720278-64aa9f44-096c-491a-934f-da3bdf8470c1.mp4
 
 ## Rules
 
