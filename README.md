@@ -2,6 +2,8 @@
 
 This game will help you gain knowledge about Quantum principles like Superpostition and entanglement.
 
+![image](https://user-images.githubusercontent.com/60883716/233693317-41f3239d-6ab1-4f8e-90c0-65afe40dfa04.png)
+
 ## Rules
 
 ### 1. Types of cells 
